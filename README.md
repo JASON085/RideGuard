@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app-logo.png" width="180" alt="MeshBBS Logo">
+  <img src="assets/app-logo.png" width="200" alt="MeshBBS Logo">
 </p>
 
 <h1 align="center">MeshBBS</h1>
