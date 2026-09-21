@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/app-logo.png" width="180" alt="MeshBBS Logo">
+</p>
+
+<h1 align="center">MeshBBS</h1>
+
+<p align="center">
+  <b>Meshtastic / LoRa Mesh 去中心化 Android BBS</b>
+</p>
 # 白牌守路通 / RideGuard
 
 **白牌守路通 RideGuard** 是為白牌機車騎士設計的 Android 公路導航與道路狀況輔助應用程式。
