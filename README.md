@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app-logo.jpg" width="400" alt="RideGuard Logo">
+  <img src="assets/app-logo.png" width="400" alt="RideGuard Logo">
 </p>
 
 <h1 align="center">白牌守路通 / RideGuard</h1>
