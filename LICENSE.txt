@@ -1,0 +1,20 @@
+RideGuard Proprietary Software License
+
+Copyright © 2026 JASON085.
+All Rights Reserved.
+
+RideGuard is proprietary software.
+
+Permission is granted to download, install, and use official compiled
+versions of RideGuard distributed by the copyright holder for personal use.
+
+No license is granted to the source code of RideGuard.
+
+Except where applicable law permits, users may not modify, decompile,
+reverse engineer, redistribute, sublicense, sell, or create derivative
+works from RideGuard without prior written permission from the copyright
+holder.
+
+Official releases are distributed through:
+
+https://github.com/JASON085/RideGuard
